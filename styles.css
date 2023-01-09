@@ -43,9 +43,9 @@ p {
     padding: 0px 25px;
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width:800px) and (min-width:280px) {
     .main {
-        width: 70vw;
+        width: 90vw;
         margin: auto;
     }
     
@@ -55,5 +55,9 @@ p {
 
     h3 {
         font-size: 1.5rem;
+    }
+
+    p {
+        font-size: 1.1em;
     }
 }
