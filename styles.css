@@ -45,7 +45,7 @@ p {
 
 @media screen and (max-width:768px) {
     .main {
-        width: 70vw;
+        width: 80vw;
     }
     
     body {
