@@ -45,11 +45,15 @@ p {
 
 @media screen and (max-width:768px) {
     .main {
-        width: 90vw;
+        width: 70vw;
         margin: auto;
     }
     
     body {
-        padding: 10vh 0;
+        padding: 15vh 1vh;
+    }
+
+    h3 {
+        font-size: 1.5rem;
     }
 }
