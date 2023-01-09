@@ -46,10 +46,10 @@ p {
 @media screen and (max-width:768px) {
     .main {
         width: 90vw;
-        margin: 20px 5px;
+        margin: auto;
     }
     
     body {
-        margin: 10vh 0;
+        padding: 10vh 0;
     }
 }
